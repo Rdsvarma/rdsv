@@ -4,7 +4,8 @@
 	<title>Rds varma</title>
 	
 	<link rel="stylesheet" type="text/css" href="jquery.js">
-	<link rel="stylesheet" type="text/css" href="animate.css">
+	<link rel="stylesheet" type="text/css" href="profilesite.css">
+	
 	<link rel="stylesheet" type="text/css" href="jquery.waypoints.min.js">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
  </head>
